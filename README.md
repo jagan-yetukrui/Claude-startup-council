@@ -13,6 +13,11 @@ verdict — build it, reshape it, or walk away — with the reasoning a sharp ad
 ![Made with agents](https://img.shields.io/badge/agents-11%2B%20per%20run-orange)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+<!-- DEMO GIF: record a short run, save it to assets/demo.gif, then uncomment the line below.
+     See assets/README.md for how. A demo is the single best thing you can add for stars.
+<img src="assets/demo.gif" alt="The Council in action" width="820">
+-->
+
 </div>
 
 ---
