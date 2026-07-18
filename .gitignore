@@ -1,0 +1,15 @@
+# The ledger is PRIVATE run history — never publish it.
+# Each user's council builds their own local ledger; it stays on their machine.
+ledger/*
+!ledger/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
